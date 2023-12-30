@@ -61,6 +61,8 @@ with Docker Compose
   ```
 
 ## 📷 Loom Vedio
+https://www.loom.com/share/e468d3bda73f423898d5e8d0be74034d?sid=27e19f16-8424-4673-9bd9-8b8ee06fad88
+
 
 
 
